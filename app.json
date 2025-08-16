@@ -194,7 +194,7 @@
 
       "description": "Enter your session ID, the code you receive after scanning the QR code",
 
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY05GMTExS2w0cU9lMzFwYVQ2ZUJSNFRwSGdJcUNsUTZlbkZxeUJpZWRuQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU3dKYzhVc3FiTTdMQXgyRnNVRlNzMzRxN1dpT0JjWnNHN1ZKVSszZlB5RT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDREMvUkpFZHpqd2pWMlBWR1FvSm9ZRFo4VjVVdnArcHpsckFaRmZySm5VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ3OUd0Ym1BbkdRWmpJZEpLY09BeVZxekcyUWlBelJzSzByMkNMdFpCR0I0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldMMStqbGFsL0lrRzkxZUVrRzc2d0NhcGlkcStIVllDdWJyWTVNeUxvbWc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ink2WTdvam5JVzRDdE9wc2xnY2lzQ2Y5cmxsbnVkQlgrQXpLeDlKVHYvRjg9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEhhd29xYW9WQVpRR21FNktUMFpvVnl0dmgvaUJITzJnVTM3aUNDWm9FMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVkhDamJhMVdoc240N3FHSFhOZ1RLcG9Lc3JVMEdvR3M2N2NTL2ZQR3NuYz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNtSVNJbk1PMmJHUElhdkFPUXBUVWJjR3dKc1FGR251TVpER3JyVDBtKzhEZ3lFSzBHOEZkN0Z0VEpqS0Zmd1J3RkNicm04TUNva1oxbGRWcGNPZ2l3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzYsImFkdlNlY3JldEtleSI6ImZaYmlXTGROV1V3VWN3UXFGWHEram5EeTZjK3JpSFZ2aFVZNVJrRFkwUWs9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjQyMDU2NDAxNzEyQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjA5QzA3MEFEQTRDMThGMUY2Q0QzOTA4OUVBMzRDMUE0In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTUzNTExMTN9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI0MjA1NjQwMTcxMkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJCMTkwOTQ4MDU1RDU1NEY0MUUwMzEzQjM1NzI4QzA1MyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU1MzUxMTMwfV0sIm5leHRQcmVLZXlJZCI6MzIsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMiwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJSUUFLUVhRUyIsIm1lIjp7ImlkIjoiMjQyMDU2NDAxNzEyOjYyQHMud2hhdHNhcHAubmV0IiwibGlkIjoiMjA2ODQ2MTYxODQ2NDU1OjYyQGxpZCIsIm5hbWUiOiLqp4HimKvgv5DKn+G0j8qA4bSFIMqA4bSH4bSA4bSY4bSHyoAgyaLhtI/Kn+G0heG0ocmqybThtIUifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01xT2dlMEJFS3lRZ3NVR0dCRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InVoKzFVU2FEa2JSRGRHTVZSRnNBWGtjL1A5REIzai9LNUpSSDFwQVprVEE9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjE3a0JGT2t0TW9sK3FCTUxmaEJOQlBuU0p2RDgzcC9tSnNPV1VTdSt4WVNqNGlPUEgvL0IrUkpmZk14ci9XRzZzOTB6NXlVeWRGMzA5SE5JbE1Xa0FnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJEUDJGWldmNXdBK01tZjkxb1dzcTJQYTBmeExNUjFick8vMFpNb1BIMnlESzdFVVJmdzRjbmJNSXMzdVd3dEE4TUExb1d4bm11a0I2OCtGYjZsbkVpdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI0MjA1NjQwMTcxMjo2MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJib2Z0VkVtZzVHMFEzUmpGVVJiQUY1SFB6L1F3ZDQveXVTVVI5YVFHWkV3In19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQUlJRFE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTUzNTEwOTksImxhc3RQcm9wSGFzaCI6IjJQMVloZiIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTG9xIn0=",
 
       "required": true
 
@@ -204,7 +204,7 @@
 
       "description": "don't you have a name bro.Insert your name here!!",
 
-      "value": "JEEPERS CREEPER XMD ⚡",
+      "value": "꧁☫࿐ʟᴏʀᴅ ʀᴇᴀᴘᴇʀ ɢᴏʟᴅᴡɪɴᴅ",
 
       "required": false
 
@@ -234,7 +234,7 @@
 
       "description": "Your phone number (exclude '+' and area code, e.g., '25471234567898')",
 
-      "value": "25476******",
+      "value": "242056401712",
 
       "required": false
 
@@ -244,7 +244,7 @@
 
       "description": "Set the warning limit for warning commands",
 
-      "value": "5",
+      "value": "3",
 
       "required": false
 
@@ -254,7 +254,7 @@
 
       "description": "Set 'yes' to display a starting bot message or 'no' to disable it",
 
-      "value": "no",
+      "value": "yes",
 
       "required": true
 
