@@ -92,7 +92,7 @@ async function handleAntideleteCommand(_0x2fde82, _0x2ae3d5, _0xc29bf5, _0x38dac
   }
   saveAntideleteConfig(_0x28954f);
   await _0x2fde82.sendMessage(_0x2ae3d5, {
-    'text': "💠 *Antidelete " + (_0x38dac4 === 'off' ? 'disabled' : "enabled in " + _0x38dac4 + " mode") + '!*'
+    'text': "⭕ *Antidelete " + (_0x38dac4 === 'off' ? 'disabled' : "enabled in " + _0x38dac4 + " mode") + '!*'
   });
 }
 async function storeMessage(_0x1f9dcc) {
@@ -181,7 +181,7 @@ async function handleMessageRevocation(_0x46dcb3, _0x4a0ee2) {
       'year': "numeric"
     });
     const _0x4c00f5 = _0x2949b1.mode === 'private' ? _0x3de779 : _0x11772a.group || _0xaba56b;
-    let _0x5184ff = "*💠 ANTIDELETE ALERT 💠*\n\n" + ("*🗑️ Deleted By:* @" + _0x5bde68.split('@')[0] + "\n") + ("*💠 Sender:* @" + _0xe8fac0 + "\n") + ("*💠 Time:* " + _0x435f04 + "\n");
+    let _0x5184ff = "*‼️ ANTIDELETE ALERT ‼️*\n\n" + ("*🗑️ Deleted By:* @" + _0x5bde68.split('@')[0] + "\n") + ("*💠 Sender:* @" + _0xe8fac0 + "\n") + ("*💠 Time:* " + _0x435f04 + "\n");
     if (_0x51bab5) {
       _0x5184ff += "*👥 Group:* " + _0x51bab5 + "\n";
     }

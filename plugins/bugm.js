@@ -67,10 +67,10 @@ let menuMsg = `
 
 ╭──────────────────••
 ┊ JEEPERS CREEPER-XMD 
-[https://whatsapp.com/channel/0029VbAoW2dAInPcTs6Fmg1o]
+[https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g]
 ╰──────────────────••
 
-> ©Toxic lover/jeepers creeper-xmd #tech projects
+> ©sir bravin #tech projects
 
  `;
 

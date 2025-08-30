@@ -26,7 +26,7 @@ module.exports = [
   name: 'tiktok3',
   aliases: ['tk', 'tiktokdl'],
   description: 'Download TikTok media by link.',
-  category: 'Download-sir',
+  category: 'Download-sir toxic',
 
   execute: async (king, msg, args, fromJid) => {
     const query = args.join(' ').trim();
@@ -71,7 +71,7 @@ module.exports = [
   name: 'insta2',
   aliases: ['igdl', 'ig', 'instagram'],
   description: 'Download media from an Instagram link.',
-  category: 'Download-sir',
+  category: 'Download-sir Toxic',
 
   get flashOnly() {
     return franceking();
@@ -120,7 +120,7 @@ module.exports = [
   name: 'posts',
   aliases: ['igposts', 'instafeed'],
   description: 'Download recent Instagram posts of a given username.',
-  category: 'Download-sir',
+  category: 'Download-sir toxic',
 
   get flashOnly() {
     return franceking();
